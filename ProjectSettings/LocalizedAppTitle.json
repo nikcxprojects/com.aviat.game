@@ -1,0 +1,37 @@
+{
+    "LocalizeAppNameOnAndroid": true,
+    "LocalizeAppIconOnAndroid": true,
+    "LocalizeAppNameOniOS": false,
+    "LocalizeAppIconOniOS": false,
+    "LocalizedData": [
+        {
+            "LanguageCode": "RU",
+            "AppName": "Aviator",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "65b7953bf08c4d64187c54136d781c4e",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "EN",
+            "AppName": "AVIAT",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "b6ff9196c3696a74782b1b911877c521",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        }
+    ],
+    "DefaultLocalizedData": 1,
+    "AndroidNameResource": "app_name",
+    "AndroidIconResource": "app_icon"
+}
